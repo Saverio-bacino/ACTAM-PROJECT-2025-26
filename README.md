@@ -6,20 +6,29 @@ Academic Year 2025/2026 – Politecnico di Milano
 
 ---
 
-**PolyDAW** is an interactive web application for music composition based on
-**polygon-based sequencers**.
+**PolyDAW** is an interactive web application for musical composition based on
+**polygon sequencers**.
 
 ---
 
 ## Technologies
 
-- HTML5  
-- CSS3  
-- JavaScript  
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 ---
 
-## Online Demo
+## Authors
+
+- Saverio Mariano Bacino  
+- Victor Alexandru Corlan  
+- Santiago Ochoa Colorado  
+- Anitha Sivasankar  
+
+---
+
+## Live Demo
 
 The web application is available at the following link:
 
