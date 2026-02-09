@@ -1,6 +1,27 @@
-# PolyDAW_Final
+# ACTAM Project 2025/26 – PolyDAW
 
-A Pen created on CodePen.
+Project developed for the course  
+**ACTAM – Advanced Coding Tools and Methodologies**  
+Academic Year 2025/2026 – Politecnico di Milano
 
-Original URL: [https://codepen.io/boogergoober/pen/wBWYNeK](https://codepen.io/boogergoober/pen/wBWYNeK).
+---
 
+**PolyDAW** is an interactive web application for musical composition based on
+**polygon sequencers**.
+
+---
+
+## Technologies
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+---
+
+## Authors
+
+- Saverio Mariano Bacino  
+- Victor Alexandru Corlan  
+- Santiago Ochoa Colorado  
+- Anitha Sivasankar  
